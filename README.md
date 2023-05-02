@@ -33,7 +33,7 @@ The robot can either be run in autonomous mode or take voice commands from the M
 
 Block Diagram:
 
-![](https://github.com/sufiyanahmed024/ECE_4180_FinalProject/blob/main/4180_Final_Block.png)
+![](https://github.com/sufiyanahmed024/ECE_4180_FinalProject/blob/main/4180_Final.png)
 
 ## Parts List
 
