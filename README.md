@@ -126,4 +126,4 @@ Mbed to uLCD
 ## Source Code
 
 main.cpp
-https://github.com/sufiyanahmed024/ECE_4180_FinalProject/blob/main/main.cpp
+[https://github.com/sufiyanahmed024/ECE_4180_FinalProject/blob/main/main.cpp](https://github.com/sufiyanahmed024/ECE_4180_FinalProject/blob/7ae27c835eb536f6b5e15d7121976144b436c701/main.cpp#L1-L414)
